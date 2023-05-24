@@ -176,15 +176,6 @@ export const Trailler = styled.div`
   }
 `;
 
-export const DivFooter = styled.div`
-  background-color: White;
-  color: black;
-  height: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 25px;
-`;
 
 export const Buttons = styled.div`
   width: 100%;

@@ -201,10 +201,6 @@ export default function Home() {
           <button className="Last">Último</button>
         </div>
       </Buttons>
-
-      <DivFooter>
-        <p>Desenvolvido por André Bertolin</p>
-      </DivFooter>
     </Container>
   );
 }
