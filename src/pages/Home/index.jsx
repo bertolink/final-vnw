@@ -14,7 +14,6 @@ import {
   Assistir,
   Trailler,
   Botao,
-  DivFooter,
   Buttons,
 } from "./styled";
 import { useContext, useEffect, useState } from "react";
